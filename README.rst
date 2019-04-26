@@ -1,3 +1,10 @@
+===================================
+Cylo-Ren: The Cythonised VADER
+===================================
+
+Cylo-Ren is an fork of the original VADER implementation that has been modified to support Cython compilation.
+
+
 ====================================
 VADER-Sentiment-Analysis
 ====================================
